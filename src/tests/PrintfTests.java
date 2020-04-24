@@ -1,11 +1,9 @@
-package test;
+package tests;
 
-import static org.junit.jupiter.api.Assertions.*;
-
-import org.junit.jupiter.api.Test;
-
-import junit.framework.Assert;
 import samples.Printf;
+
+import org.junit.Assert;
+import org.junit.jupiter.api.Test;
 
 class PrintfTests {
 
